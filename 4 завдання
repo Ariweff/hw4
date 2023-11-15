@@ -1,0 +1,2 @@
+for elem in range(2,19,2):
+    print(elem)
